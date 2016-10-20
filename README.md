@@ -1,0 +1,2 @@
+# INNUCA_LSALM
+Reads_control_and_assembly
